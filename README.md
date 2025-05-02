@@ -1,7 +1,7 @@
 # 🚀 Data Warehouse & Analytics Project – End-to-End Data Engineering
 
 ## 🎯 Project Objective
-Designed and built a modern **Data Warehouse** using **SQL Server**, following **Medallion Architecture** (Bronze, Silver, Gold) to ingest, clean, and transform raw data into a **structured, analytics-ready format**. This project showcases **ETL pipeline development, data modeling, and SQL-based analytics**—critical skills for a **Data Engineer** role.
+Designed and built a modern **Data Warehouse** using **SQL Server**, following **Medallion Architecture** (Bronze, Silver, Gold) to ingest, clean, and transform raw data into a **structured, analytics-ready format**. This project showcases **ETL pipeline development, data modeling, and SQL-based analytics**.
 
 ---
 ![image](https://github.com/user-attachments/assets/a5bee080-ce81-4f9d-a679-175d18416fb0)
